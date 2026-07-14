@@ -1,6 +1,7 @@
 # Veeresh
 
-**Computer Science Graduate | Full-Stack Developer | Backend & AI Enthusiast**
+**Computer Science Graduate
+Full-Stack Developer | Building AI-Powered Applications**
 
 I enjoy building scalable web applications, backend systems, automation platforms, and AI-powered solutions that solve real-world problems. My interests include full-stack development, backend engineering, cloud technologies, and machine learning.
 
