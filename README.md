@@ -49,11 +49,7 @@ A full-stack platform for a professional Mehendi training academy with student e
 ### 📊 Vyapari Copilot
 Business automation platform that helps small businesses manage sales, expenses, inventory, and reporting through a Telegram bot.
 
-Frontend:
-https://github.com/zoro7204/vayapari-copilot-frontend
-
-Backend:
-https://github.com/zoro7204/vyapari-copilot-backend
+https://github.com/zoro7204/Vyapari-Copilot
 
 ---
 
